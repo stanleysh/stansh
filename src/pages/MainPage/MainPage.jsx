@@ -39,10 +39,28 @@ const MainPage = () => {
             <div className="projects" id="projects">
                 <h2>Projects</h2>
                 <div className="projects-list">
-                    <img/>
-                    <img/>
-                    <img/>
-                    <img/>
+                    <div id="project-preview">
+                        <h4>Current project: Coronavirus Tracker</h4>
+                        <img src={require("./images/project_holder.png")}/>
+                        <p className="view">Click to view</p>
+                    </div>
+               
+                    <div id="project-preview">
+                        <h4>Preppy</h4>
+                        <img src={require("./images/project_holder.png")}/>
+                        <p className="view">Click to view</p>
+                    </div>
+                
+                    <div id="project-preview">
+                        <h4>Career Flash</h4>
+                        <img src={require("./images/project_holder.png")}/>
+                        <p className="view">Click to view</p>
+                    </div>      
+                    <div id="project-preview">
+                        <h4>Housing Prediction Model</h4>              
+                        <img src={require("./images/project_holder.png")}/>
+                        <p className="view">Click to view</p>
+                    </div>
                 </div>
             </div>
         </div>

@@ -10,10 +10,10 @@ class App extends Component {
     return (
       <div className="App" id="App">
         <header className="App-header">
-          <a href="#App">Stanley Sham</a>
-          <a href="#about">About me</a>
-          <a href="#skills">Skills/Technologies</a>
-          <a href="#projects">Projects</a>
+          <a className="anchor" href="#App">Stanley Sham</a>
+          <a className="anchor" href="#about">About me</a>
+          <a className="anchor" href="#skills">Skills/Technologies</a>
+          <a className="anchor" href="#projects">Projects</a>
         </header>
       <Switch>
         <Route exact path = '/' render={() =>
