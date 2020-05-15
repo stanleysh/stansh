@@ -14,11 +14,29 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 10vh;
-  display: grid;
-  font-size: calc(10px + 2vmin);
+  background-color: #3C88BF;
+  display: flex;
+  font-size: calc(8px + 1vmin);
+  overflow: hidden;
   color: white;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 15px 0px;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1;
+
+}
+
+.App-header a:first-child {
+  position: absolute;
+  left: 0;
+}
+
+.App-header > a {
+  text-align: center; 
+  margin:  0px 10px;
 }
 
 .App-link {
