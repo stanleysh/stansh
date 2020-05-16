@@ -1,5 +1,6 @@
 import React from 'react';
-import {Link} from 'react-router-dom';
+// Will use link once other pages are complete, for now just presentation is necessary
+// import {Link} from 'react-router-dom';
 import './MainPage.css'
 
 const MainPage = () => {
@@ -42,25 +43,26 @@ const MainPage = () => {
                     <div id="project-preview">
                         <h4>Current project: Coronavirus Tracker</h4>
                         <img src={require("./images/project_holder.png")}/>
-                        <p className="view">Click to view</p>
+                        <p className="view">Details coming soon</p>
                     </div>
                
                     <div id="project-preview">
                         <h4>Preppy</h4>
-                        <img src={require("./images/project_holder.png")}/>
-                        <p className="view">Click to view</p>
+                        <a href="https://interview-preppy.herokuapp.com/"><img src={require("./images/preppy.png")}/></a>
+                        <a href="https://interview-preppy.herokuapp.com/" className="view">Click to view</a>
                     </div>
-                
                     <div id="project-preview">
                         <h4>Career Flash</h4>
-                        <img src={require("./images/project_holder.png")}/>
-                        <p className="view">Click to view</p>
+                        <a href="https://github.com/AdamC66/Career-Flash"><img src={require("./images/career_flash.png")}/></a>
+                        <a href="https://github.com/AdamC66/Career-Flash" className="view">Click to view</a>
                     </div>      
                     <div id="project-preview">
                         <h4>Housing Prediction Model</h4>              
-                        <img src={require("./images/project_holder.png")}/>
-                        <p className="view">Click to view</p>
+                        <a href="https://github.com/stanleysh/Aimes_Iowa_Housing_Prices"><img src={require("./images/aimes.png")}/></a>
+                        <a href="https://github.com/stanleysh/Aimes_Iowa_Housing_Prices" className="view">Click to view</a>
                     </div>
+                    <div></div>
+                    <a href="https://docs.google.com/presentation/d/1tMiHUKCYPCSrUaUdyR7BxPEct_4hEn9-DV_vPKmZEJ4/edit" id="aimes-google">Link to google doc presentation</a>
                 </div>
             </div>
         </div>

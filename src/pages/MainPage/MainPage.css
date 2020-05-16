@@ -74,6 +74,7 @@ a {
     color: inherit;
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 a:hover {
@@ -104,6 +105,7 @@ a:hover {
     padding-top: 35px;
     margin-top: -15px;
     font-size: 12px;
+    margin-bottom: 20px;
 }
 
 .projects-list {
@@ -129,6 +131,7 @@ a:hover {
     margin-top: 0px;
 }
 
+
 #project-preview .view {
     position: relative;
     bottom: 45%;
@@ -138,14 +141,21 @@ a:hover {
     max-width: 20%;
     margin: auto;
     visibility: hidden;
+    text-align: center;
+    -webkit-text-stroke: 0.75px black;
 }
 
 #project-preview:hover img {
-    filter: blur(2px);
+    filter: blur(4px);
 }
 
 #project-preview:hover .view {
     visibility: visible;
+}
+
+#aimes-google {
+    margin-top: -10px;
+    font-size: calc(2px + 1vmin)
 }
 
 @media only screen and (min-width: 600px) {
@@ -268,6 +278,7 @@ a:hover {
         grid-template-columns: 1fr 1fr;
         max-width: 90%;
         margin: auto;
+        column-gap: 5%;
     }
     
     .projects h2 {
