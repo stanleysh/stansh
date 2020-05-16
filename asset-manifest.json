@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/stansh/static/css/main.ca6c2a0f.chunk.css",
+    "main.css": "/stansh/static/css/main.f15a3239.chunk.css",
     "main.js": "/stansh/static/js/main.ff6f2803.chunk.js",
     "main.js.map": "/stansh/static/js/main.ff6f2803.chunk.js.map",
     "runtime-main.js": "/stansh/static/js/runtime-main.19f31e7c.js",
@@ -8,9 +8,9 @@
     "static/js/2.9b51a362.chunk.js": "/stansh/static/js/2.9b51a362.chunk.js",
     "static/js/2.9b51a362.chunk.js.map": "/stansh/static/js/2.9b51a362.chunk.js.map",
     "index.html": "/stansh/index.html",
-    "precache-manifest.8a265c604fa429708ac4096b7135f1f1.js": "/stansh/precache-manifest.8a265c604fa429708ac4096b7135f1f1.js",
+    "precache-manifest.f30866835233070a4ce469030bd86246.js": "/stansh/precache-manifest.f30866835233070a4ce469030bd86246.js",
     "service-worker.js": "/stansh/service-worker.js",
-    "static/css/main.ca6c2a0f.chunk.css.map": "/stansh/static/css/main.ca6c2a0f.chunk.css.map",
+    "static/css/main.f15a3239.chunk.css.map": "/stansh/static/css/main.f15a3239.chunk.css.map",
     "static/js/2.9b51a362.chunk.js.LICENSE.txt": "/stansh/static/js/2.9b51a362.chunk.js.LICENSE.txt",
     "static/media/aimes.png": "/stansh/static/media/aimes.3410729b.png",
     "static/media/career_flash.png": "/stansh/static/media/career_flash.72625b79.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.19f31e7c.js",
     "static/js/2.9b51a362.chunk.js",
-    "static/css/main.ca6c2a0f.chunk.css",
+    "static/css/main.f15a3239.chunk.css",
     "static/js/main.ff6f2803.chunk.js"
   ]
 }
