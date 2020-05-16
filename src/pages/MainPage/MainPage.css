@@ -74,7 +74,6 @@ a {
     color: inherit;
     display: flex;
     align-items: center;
-    justify-content: center;
 }
 
 a:hover {
@@ -143,6 +142,8 @@ a:hover {
     visibility: hidden;
     text-align: center;
     -webkit-text-stroke: 0.75px black;
+    justify-content: center;
+
 }
 
 #project-preview:hover img {
@@ -155,7 +156,7 @@ a:hover {
 
 #aimes-google {
     margin-top: -10px;
-    font-size: calc(2px + 1vmin)
+    font-size: calc(2px + 1vmin);
 }
 
 @media only screen and (min-width: 600px) {
