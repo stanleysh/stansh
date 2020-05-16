@@ -15,12 +15,7 @@ class App extends Component {
           <a className="anchor" href="#skills">Skills/Technologies</a>
           <a className="anchor" href="#projects">Projects</a>
         </header>
-      <Switch>
-        <Route exact path = '/' render={() =>
           <MainPage/>
-        }/>
-      </Switch>
-
       </div>
     );
   }
