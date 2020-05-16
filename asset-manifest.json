@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/stanleysh/static/css/main.ca6c2a0f.chunk.css",
-    "main.js": "/stanleysh/static/js/main.2b1e8957.chunk.js",
-    "main.js.map": "/stanleysh/static/js/main.2b1e8957.chunk.js.map",
-    "runtime-main.js": "/stanleysh/static/js/runtime-main.8fa32730.js",
-    "runtime-main.js.map": "/stanleysh/static/js/runtime-main.8fa32730.js.map",
-    "static/js/2.661619ee.chunk.js": "/stanleysh/static/js/2.661619ee.chunk.js",
-    "static/js/2.661619ee.chunk.js.map": "/stanleysh/static/js/2.661619ee.chunk.js.map",
-    "index.html": "/stanleysh/index.html",
-    "precache-manifest.af4ad24fdd0376a3aa59d67cd77d40f6.js": "/stanleysh/precache-manifest.af4ad24fdd0376a3aa59d67cd77d40f6.js",
-    "service-worker.js": "/stanleysh/service-worker.js",
-    "static/css/main.ca6c2a0f.chunk.css.map": "/stanleysh/static/css/main.ca6c2a0f.chunk.css.map",
-    "static/js/2.661619ee.chunk.js.LICENSE.txt": "/stanleysh/static/js/2.661619ee.chunk.js.LICENSE.txt",
-    "static/media/aimes.png": "/stanleysh/static/media/aimes.3410729b.png",
-    "static/media/career_flash.png": "/stanleysh/static/media/career_flash.72625b79.png",
-    "static/media/preppy.png": "/stanleysh/static/media/preppy.802cb32b.png",
-    "static/media/project_holder.png": "/stanleysh/static/media/project_holder.f886d2dd.png"
+    "main.css": "/stansh/static/css/main.ca6c2a0f.chunk.css",
+    "main.js": "/stansh/static/js/main.72741ff3.chunk.js",
+    "main.js.map": "/stansh/static/js/main.72741ff3.chunk.js.map",
+    "runtime-main.js": "/stansh/static/js/runtime-main.19f31e7c.js",
+    "runtime-main.js.map": "/stansh/static/js/runtime-main.19f31e7c.js.map",
+    "static/js/2.661619ee.chunk.js": "/stansh/static/js/2.661619ee.chunk.js",
+    "static/js/2.661619ee.chunk.js.map": "/stansh/static/js/2.661619ee.chunk.js.map",
+    "index.html": "/stansh/index.html",
+    "precache-manifest.6ca22c2e3d4b70c3463cd509bd3f3ce6.js": "/stansh/precache-manifest.6ca22c2e3d4b70c3463cd509bd3f3ce6.js",
+    "service-worker.js": "/stansh/service-worker.js",
+    "static/css/main.ca6c2a0f.chunk.css.map": "/stansh/static/css/main.ca6c2a0f.chunk.css.map",
+    "static/js/2.661619ee.chunk.js.LICENSE.txt": "/stansh/static/js/2.661619ee.chunk.js.LICENSE.txt",
+    "static/media/aimes.png": "/stansh/static/media/aimes.3410729b.png",
+    "static/media/career_flash.png": "/stansh/static/media/career_flash.72625b79.png",
+    "static/media/preppy.png": "/stansh/static/media/preppy.802cb32b.png",
+    "static/media/project_holder.png": "/stansh/static/media/project_holder.f886d2dd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8fa32730.js",
+    "static/js/runtime-main.19f31e7c.js",
     "static/js/2.661619ee.chunk.js",
     "static/css/main.ca6c2a0f.chunk.css",
-    "static/js/main.2b1e8957.chunk.js"
+    "static/js/main.72741ff3.chunk.js"
   ]
 }
