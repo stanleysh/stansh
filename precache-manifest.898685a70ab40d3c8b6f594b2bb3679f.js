@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a63d4aa59290787124a401faa0cb6ed0",
+    "revision": "a60d3d4b68f66c372a59a0b67d9e769f",
     "url": "/stansh/index.html"
   },
   {
-    "revision": "7b01af8bae2df1a00cd0",
-    "url": "/stansh/static/css/main.f15a3239.chunk.css"
+    "revision": "e6b46f1c0d3acc716368",
+    "url": "/stansh/static/css/main.f2a019c8.chunk.css"
   },
   {
     "revision": "d5b17068bcbdd4a302f8",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stansh/static/js/2.9b51a362.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7b01af8bae2df1a00cd0",
-    "url": "/stansh/static/js/main.ff6f2803.chunk.js"
+    "revision": "e6b46f1c0d3acc716368",
+    "url": "/stansh/static/js/main.ab0e4baf.chunk.js"
   },
   {
     "revision": "a65ad99e7fa1b15355c8",
