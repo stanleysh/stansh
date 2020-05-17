@@ -60,9 +60,8 @@ const MainPage = () => {
                         <h4>Housing Prediction Model</h4>              
                         <a href="https://github.com/stanleysh/Aimes_Iowa_Housing_Prices"><img src={require("./images/aimes.png")}/></a>
                         <a href="https://github.com/stanleysh/Aimes_Iowa_Housing_Prices" className="view">Click to view</a>
-                    </div>
-                    <div></div>
-                    <a href="https://docs.google.com/presentation/d/1tMiHUKCYPCSrUaUdyR7BxPEct_4hEn9-DV_vPKmZEJ4/edit" id="aimes-google">Link to google doc presentation</a>
+                        <a href="https://docs.google.com/presentation/d/1tMiHUKCYPCSrUaUdyR7BxPEct_4hEn9-DV_vPKmZEJ4/edit" id="aimes-google">Link to google doc presentation</a>
+                    </div>                    
                 </div>
             </div>
         </div>
