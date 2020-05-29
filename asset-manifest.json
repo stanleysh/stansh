@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/stansh/static/css/main.f2a019c8.chunk.css",
-    "main.js": "/stansh/static/js/main.ab0e4baf.chunk.js",
-    "main.js.map": "/stansh/static/js/main.ab0e4baf.chunk.js.map",
+    "main.js": "/stansh/static/js/main.b1f28e52.chunk.js",
+    "main.js.map": "/stansh/static/js/main.b1f28e52.chunk.js.map",
     "runtime-main.js": "/stansh/static/js/runtime-main.19f31e7c.js",
     "runtime-main.js.map": "/stansh/static/js/runtime-main.19f31e7c.js.map",
     "static/js/2.9b51a362.chunk.js": "/stansh/static/js/2.9b51a362.chunk.js",
     "static/js/2.9b51a362.chunk.js.map": "/stansh/static/js/2.9b51a362.chunk.js.map",
     "index.html": "/stansh/index.html",
-    "precache-manifest.898685a70ab40d3c8b6f594b2bb3679f.js": "/stansh/precache-manifest.898685a70ab40d3c8b6f594b2bb3679f.js",
+    "precache-manifest.26d60487ca35e47988adc18b9b57db79.js": "/stansh/precache-manifest.26d60487ca35e47988adc18b9b57db79.js",
     "service-worker.js": "/stansh/service-worker.js",
     "static/css/main.f2a019c8.chunk.css.map": "/stansh/static/css/main.f2a019c8.chunk.css.map",
     "static/js/2.9b51a362.chunk.js.LICENSE.txt": "/stansh/static/js/2.9b51a362.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.19f31e7c.js",
     "static/js/2.9b51a362.chunk.js",
     "static/css/main.f2a019c8.chunk.css",
-    "static/js/main.ab0e4baf.chunk.js"
+    "static/js/main.b1f28e52.chunk.js"
   ]
 }
