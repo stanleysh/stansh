@@ -41,7 +41,7 @@ const MainPage = () => {
                 <h2>Projects</h2>
                 <div className="projects-list">
                     <div id="project-preview">
-                        <h4>Current project: Coronavirus Tracker</h4>
+                        <h4>Future project</h4>
                         <img src={require("./images/project_holder.png")}/>
                         <p className="view">Details coming soon</p>
                     </div>
